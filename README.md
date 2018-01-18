@@ -1,9 +1,14 @@
 # awesome-books
-IT从业者必看的电子书清单，附下载地址。如果你喜欢这个清单，欢迎star；如果你想持续关注，欢迎watch；如果你想和我搞基，欢迎加群 264133057。
+IT书籍大全电子书清单，附下载地址。如果你喜欢这个清单，欢迎star；如果你想持续关注，欢迎watch；如果你想和我搞基，欢迎加群 264133057。
 
 # 编程语言
 
+## 编程基础
+
 - 《计算机程序的构造和解释（原书第2版）》 [亚马逊](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011AP7RY&linkCode=as2&tag=vastwork-23)
+- 《编程原本》 [亚马逊](https://www.amazon.cn/gp/product/B006P7V73G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B006P7V73G&linkCode=as2&tag=vastwork-23)
+- 《代码大全》 [亚马逊](https://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0061XKRXA&linkCode=as2&tag=vastwork-23)
+- ​
 
 # 操作系统
 
@@ -14,17 +19,29 @@ IT从业者必看的电子书清单，附下载地址。如果你喜欢这个清
 - 《深入理解计算机系统（原书第2版）》 [亚马逊](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004BJ18KM&linkCode=as2&tag=vastwork-23)
 
 
-## Linux
+## Unix/Linux
 
 - 《深入理解LINUX内核(第3版)(涵盖2.6版)》 [亚马逊](https://www.amazon.cn/gp/product/B0011F5RYM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011F5RYM&linkCode=as2&tag=vastwork-23)
 - 《Linux系统编程（第2版）》 [亚马逊](https://www.amazon.cn/gp/product/B00JUM2ML4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00JUM2ML4&linkCode=as2&tag=vastwork-23)
 - 《Linux内核设计与实现（第3版）》 [亚马逊](https://www.amazon.cn/gp/product/B004X3Z3D4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004X3Z3D4&linkCode=as2&tag=vastwork-23)
+- 《UNIX编程艺术》 [亚马逊](https://www.amazon.cn/gp/product/B008Z1IEQ8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008Z1IEQ8&linkCode=as2&tag=vastwork-23)
+
+## Windows
+
+- 《Windows核心编程(第5版)》 	[亚马逊](https://www.amazon.cn/gp/product/B001GS7918/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B001GS7918&linkCode=as2&tag=vastwork-23)
 
 # 计算机网络
 
 ## 计算机网络基础
 
 - 《TCP/IP详解 卷1：协议》 [亚马逊](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00116OTVS&linkCode=as2&tag=vastwork-23)
+
+## 网络工具
+
+### WireShark
+
+- 《WireShark网络分析就这么简单》 [亚马逊](https://www.amazon.cn/gp/product/B00PB5QQ84/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00PB5QQ84&linkCode=as2&tag=vastwork-23)
+- 《WireShark网络分析的艺术》 [亚马逊](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B01AS1OS8A&linkCode=as2&tag=vastwork-23)
 
 ## Unix/Linux
 
