@@ -8,7 +8,10 @@ IT书籍大全电子书清单，附下载地址。如果你喜欢这个清单，
 - 《计算机程序的构造和解释（原书第2版）》 [亚马逊](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011AP7RY&linkCode=as2&tag=vastwork-23)
 - 《编程原本》 [亚马逊](https://www.amazon.cn/gp/product/B006P7V73G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B006P7V73G&linkCode=as2&tag=vastwork-23)
 - 《代码大全》 [亚马逊](https://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0061XKRXA&linkCode=as2&tag=vastwork-23)
-- ​
+- 《代码整洁之道》 [亚马逊](https://www.amazon.cn/gp/product/B0031M9GHC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0031M9GHC&linkCode=as2&tag=vastwork-23)
+- 《编程珠玑（第2版）》 [亚马逊](https://www.amazon.cn/gp/product/B00SFZH0DC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00SFZH0DC&linkCode=as2&tag=vastwork-23)
+- 《编程珠玑（续）》 [亚马逊](https://www.amazon.cn/gp/product/B0150BMQDM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0150BMQDM&linkCode=as2&tag=vastwork-23)
+- 《软件调试的艺术》 [亚马逊](https://www.amazon.cn/gp/product/B00IOAM6VE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00IOAM6VE&linkCode=as2&tag=vastwork-23)
 
 # 操作系统
 
